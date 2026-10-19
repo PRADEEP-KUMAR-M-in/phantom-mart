@@ -52,7 +52,6 @@ The app works with a single file called **`phantommart.db`**, placed in the same
 | File | What it is | Use it for |
 |---|---|---|
 | `phantommart_demo.db` | A full demo shop: 36 products, 10 customers, 4 suppliers, **about 1,150 bills over 90 days**, purchase orders, supplier payments and loyalty points | Trying the app, seeing charts and reports with real-looking numbers, training staff |
-| `phantommart_empty.db` | A clean start: only the 3 default users and 6 categories | Starting your real shop. (The app also makes this automatically if no database exists.) |
 
 ### The easy way: one command
 
