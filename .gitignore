@@ -1,0 +1,20 @@
+# ---- your real shop data: never put this on GitHub ----
+/phantommart.db
+/phantommart.db-journal
+/backups/
+/product_images/
+
+# ---- python ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ---- editor / system files ----
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ---- files you may save while testing ----
+*.prn

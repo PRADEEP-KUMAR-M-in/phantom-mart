@@ -1,0 +1,7 @@
+# Phantom-Mart needs Python 3.10 or newer. Install everything with:
+#   pip install -r requirements.txt
+pillow>=9.0
+reportlab>=3.6
+qrcode>=7.0
+matplotlib>=3.7
+openpyxl>=3.1
